@@ -1,3 +1,10 @@
+# Intellij Idea
 /.idea
 *.iml
 /src/test
+
+# Eclipse
+/target
+/.settings
+.project
+.classpath
